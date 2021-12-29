@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3loomin&show_icons=true&theme=radical)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsckdals7">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsckdals7">
