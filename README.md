@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:3loomin@gmail.com)
 
-![Anurag's GitHub stats](<img align='right' src="https://github-readme-stats.vercel.app/api?username=3loomin&show_icons=true&theme=radical")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3loomin&show_icons=true&theme=radical)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsckdals7">
